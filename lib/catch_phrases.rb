@@ -6,11 +6,12 @@ def mario
   puts phrase
 end
 
+
 def toadstool
   puts status
 end
 
 def link
-  phrasphrase = "It's-a me, Mario!"
+  phrase = "It's Dangerous To Go Alone! Take This."
   puts phrase 
 end
